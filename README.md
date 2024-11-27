@@ -8,4 +8,4 @@ Sourav Verma<br>
 [@Linkedin](https://www.linkedin.com/in/sourav-verma-/)
 <br>
 [@Github](https://github.com/Halffilled18)
-[@Resume]([#](https://souravverma.vercel.app/))
+[@Resume][#](https://souravverma.vercel.app/)
